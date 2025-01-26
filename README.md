@@ -31,6 +31,13 @@
 
 ---
 
+## 🚀 Proyectos
+- [**TiendaVideojuegosPeliculas**](https://github.com/mariodiazzz11/TiendaVideojuegosPeliculas): Tienda en consola para ver videojuegos y películas.
+- [**HundirLaFlota**](https://github.com/mariodiazzz11/HundirLaFlota): Juego de Hundir la Flota en consola hecho en Java.
+- [**TiendaWebRopa**](https://github.com/mariodiazzz11/TiendaWebRopa): Diseño de una página web de una tienda de ropa
+  
+---
+
 ## 📬 Contacto  
 
 - 💼 **LinkedIn:** [linkedin.com/in/mario-diaz-fernandez/](https://linkedin.com/in/mario-diaz-fernandez/)  
