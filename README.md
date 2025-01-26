@@ -33,5 +33,5 @@
 
 ## 📬 Contacto  
 
-- 💼 **LinkedIn:** [linkedin.com/in/mario-diaz-fernandez](https://linkedin.com/in/tuusuario)  
+- 💼 **LinkedIn:** [linkedin.com/in/mario-diaz-fernandez/](https://linkedin.com/in/mario-diaz-fernandez/)  
 - 📧 **Correo:** mariodf.1103@gmail.com
